@@ -23,11 +23,11 @@ repository               : "joelarso/joelarso.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
-  name             : &name
+  avatar           : "profile.png"
+  name             : name
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "I am a PhD student at Indiana University in Computational Linguistics and Hispanic Linguistics."
+  location         : "Bloomington, IN"
   employer         : "Indiana University"
   uri              : # URL
   email            : "joelarso@iu.edu" 
