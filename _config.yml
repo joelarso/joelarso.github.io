@@ -24,7 +24,7 @@ repository               : "joelarso/joelarso.github.io"
 author:
   # Biographic information
   avatar           : "images/profile.png"
-  name             : name
+  name             : "Joseph Larson"
   pronouns         : "he/him"  
   bio              : "I am a PhD student at Indiana University in Computational Linguistics and Hispanic Linguistics."
   location         : "Bloomington, IN"
