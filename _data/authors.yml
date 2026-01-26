@@ -1,11 +1,10 @@
 # Authors
 
-Name Name:
-  name        : "Joseph Larson"
-  uri         : "https://joelarso.github.io"
-  email       : "joelarso@iu.edu"
-  bio         : ""
-  avatar      : "images/profile.png"
+primary:
+  name: "Joseph Larson"
+  avatar: "/images/profile.jpg"
+  pronouns: "he/him"
+  bio: "PhD student at Indiana University in Computational Linguistics and Hispanic Linguistics."
   # twitter     : "name"
   # google_plus : "Name"
 
